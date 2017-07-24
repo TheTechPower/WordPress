@@ -1,0 +1,68 @@
+table.aakanksha_metabox {
+  clear: both; }
+
+.post-new-php table.aakanksha_metabox .aakanksha-nested-table td, .post-new-php table.aakanksha_metabox .repeatable-group th, .post-new-php table.aakanksha_metabox .repeatable-group:first-of-type, .post-php table.aakanksha_metabox .aakanksha-nested-table td, .post-php table.aakanksha_metabox .repeatable-group th, .post-php table.aakanksha_metabox .repeatable-group:first-of-type, table.aakanksha_metabox tbody > tr:first-of-type > td, table.aakanksha_metabox tbody > tr:first-of-type > th, table.aakanksha_metabox > tr:first-of-type > td, table.aakanksha_metabox > tr:first-of-type > th {
+  border: 0; }
+
+.post-new-php table.aakanksha_metabox .repeatable-group, .post-new-php table.aakanksha_metabox td, .post-new-php table.aakanksha_metabox th, .post-php table.aakanksha_metabox .repeatable-group, .post-php table.aakanksha_metabox td, .post-php table.aakanksha_metabox th {
+  border-top: 1px solid #E9E9E9; }
+
+.post-new-php table.aakanksha_metabox th, .post-php table.aakanksha_metabox th {
+  text-align: right;
+  font-weight: 700; }
+
+.post-new-php table.aakanksha_metabox table th, .post-php table.aakanksha_metabox table th {
+  text-align: left; }
+
+table.aakanksha_metabox th label {
+  margin-top: 5px;
+  display: block; }
+
+p.aakanksha_metabox_description {
+  color: #AAA;
+  font-style: italic;
+  margin: 2px 0 !important; }
+
+span.aakanksha_metabox_description {
+  color: #AAA;
+  font-style: italic; }
+
+table.aakanksha_metabox input, table.aakanksha_metabox textarea {
+  font-size: 14px;
+  padding: 5px; }
+
+table.aakanksha_metabox input[type=text], table.aakanksha_metabox textarea {
+  width: 97%; }
+
+table.aakanksha_metabox textarea.aakanksha_textarea_code {
+  font-family: Consolas,Monaco,monospace;
+  line-height: 16px; }
+
+table.aakanksha_metabox li {
+  font-size: 14px;
+  margin: 1px 0 5px;
+  line-height: 16px; }
+
+table.aakanksha_metabox ul {
+  padding-top: 5px;
+  margin: 0; }
+
+table.aakanksha_metabox select {
+  font-size: 14px;
+  margin-top: 3px; }
+
+table.aakanksha_metabox input:focus, table.aakanksha_metabox textarea:focus {
+  background: #fffff8; }
+
+.aakanksha_metabox_title {
+  margin: 0 0 5px;
+  padding: 5px 0 0; }
+
+table.aakanksha_metabox input[type=checkbox], table.aakanksha_metabox input[type=radio] {
+  margin: 0 5px 0 0;
+  padding: 0; }
+
+table.aakanksha_metabox tbody.advanced-options {
+  display: none;
+  border-top: 1px solid #E9E9E9;
+}
