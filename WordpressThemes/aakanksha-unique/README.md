@@ -22,12 +22,20 @@ Great training videos, highly recommend starting here. http://wp.tutsplus.com/se
 
 Step by Step tutorials for beginner to pro. http://codex.wordpress.org/Getting_Started_with_WordPress
 
- Installation
+DOWNLOAD
 
-You can Download the theme at https://thetechpower.com/themes.
+You can Download the theme at https://thetechpower.com/themes
+
+INSTALLATION
 
 UPLOAD THEME VIA WORDPRESS
 
-Step 1 - Navigate to Appearance > Themes. Step 2 - Click "Add New" Click "Upload Theme" Step 3 - Click "Upload Theme" Step 4 - Click "Choose File" Step 5 - Navigate to find the “aakanksha-unique-theme.zip” file on your computer and click "Install Now" button. Step 6 - Activate the newly installed theme. Troubleshooting Notes a. Some servers have limited access settings and don’t allow uploading themes through the admin – in this case you have to upload using FTP.   Upload Theme via FTP client
+Step 1 - Navigate to Appearance > Themes. Step 2 - Click "Add New" Click "Upload Theme" Step 3 - Click "Upload Theme" Step 4 - Click "Choose File" Step 5 - Navigate to find the “aakanksha-unique-theme.zip” file on your computer and click "Install Now" button. Step 6 - Activate the newly installed theme. Troubleshooting Notes a. Some servers have limited access settings and don’t allow uploading themes through the admin – in this case you have to upload using FTP.   
+
+Upload Theme via FTP client
 
 Step 1 - Log into your hosting space via an FTP software Step 2 - Unzip the aakanksha-unique-theme.zip file. Step 3 - Upload the “aakanksha-unique” theme folder into wp-content > themes in your wordpress installation Step 4 - Activate the newly installed theme. Go to Appearance > Themes and activate the installed theme. Free FTP Client a. Get Filezilla here: http://filezilla-project.org/
+
+LIVE PREVIEW
+
+You can see the live preview of the theme at https://thetechpower.com/aakanksha-unique
